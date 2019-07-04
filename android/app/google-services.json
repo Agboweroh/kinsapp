@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "395626701252",
+    "firebase_url": "https://mykins.firebaseio.com",
+    "project_id": "mykins",
+    "storage_bucket": "mykins.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395626701252:android:d51bb8f9950507ee",
+        "android_client_info": {
+          "package_name": "com.example.kinsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395626701252-93ehisv0o7er45ugtaaleisjfktcchk7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kinsapp",
+            "certificate_hash": "15b424ea9660c20444422c4f4654524231af5ce4"
+          }
+        },
+        {
+          "client_id": "395626701252-ssla26kl04tjenpl0dp6bq0n4te97p3s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHNN97JDmJ_035bR805m1yPOtTNHM4lbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395626701252-ssla26kl04tjenpl0dp6bq0n4te97p3s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
